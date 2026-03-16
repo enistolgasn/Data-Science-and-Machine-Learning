@@ -1,0 +1,47 @@
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Jupyter Notebook checkpoints
+**/.ipynb_checkpoints/
+
+# Virtual environments
+venv/
+.env/
+env/
+ENV/
+
+# Conda environments
+conda-env/
+*.conda
+
+# Environment variables
+.env
+.env.*
+
+# Python build files
+build/
+dist/
+*.egg-info/
+
+# Logs
+*.log
+
+# Mac / Linux system files
+.DS_Store
+Thumbs.db
+
+# VS Code
+.vscode/
+
+# PyCharm
+.idea/
+
+# Large datasets (opsiyonel)
+data/
+datasets/
+
+# Temporary files
+*.tmp
+*.temp
